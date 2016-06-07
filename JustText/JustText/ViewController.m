@@ -32,6 +32,7 @@
     NSLog(@"22");
     NSLog(@"23");
     NSLog(@"master");
+    NSLog(@"1234");
 }
 
 - (void)didReceiveMemoryWarning {
