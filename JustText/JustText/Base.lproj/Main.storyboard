@@ -20,6 +20,10 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6dW-Rf-6tG">
                                 <rect key="frame" x="208" y="75" width="185" height="54"/>
                                 <color key="backgroundColor" red="1" green="0.99883732439999995" blue="0.68669594990000005" alpha="1" colorSpace="calibratedRGB"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qi7-hP-iYR">
+                                <rect key="frame" x="210" y="128" width="161" height="30"/>
+                                <color key="backgroundColor" red="1" green="0.40674810239999998" blue="0.73578814329999997" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                             </button>
                         </subviews>
@@ -29,6 +33,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="334" y="429"/>
+            <point key="canvasLocation" x="340" y="429"/>
         </scene>
     </scenes>
 </document>
