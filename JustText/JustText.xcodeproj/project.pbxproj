@@ -16,6 +16,7 @@
 		D60237D91D06CED7004D949D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D60237D71D06CED7004D949D /* LaunchScreen.storyboard */; };
 		D60237E21D06D29A004D949D /* NewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D60237E11D06D29A004D949D /* NewViewController.m */; };
 		D60237E51D06D2DB004D949D /* New3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D60237E41D06D2DB004D949D /* New3ViewController.m */; };
+		D6B5973D1D06EF59005FFB7E /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D6B5973C1D06EF59005FFB7E /* AViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,8 @@
 		D60237E11D06D29A004D949D /* NewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewViewController.m; sourceTree = "<group>"; };
 		D60237E31D06D2DB004D949D /* New3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = New3ViewController.h; sourceTree = "<group>"; };
 		D60237E41D06D2DB004D949D /* New3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = New3ViewController.m; sourceTree = "<group>"; };
+		D6B5973B1D06EF59005FFB7E /* AViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
+		D6B5973C1D06EF59005FFB7E /* AViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				D60237CD1D06CED7004D949D /* ViewController.m */,
 				D60237E31D06D2DB004D949D /* New3ViewController.h */,
 				D60237E41D06D2DB004D949D /* New3ViewController.m */,
+				D6B5973B1D06EF59005FFB7E /* AViewController.h */,
+				D6B5973C1D06EF59005FFB7E /* AViewController.m */,
 				D60237CF1D06CED7004D949D /* Main.storyboard */,
 				D60237D51D06CED7004D949D /* Assets.xcassets */,
 				D60237D71D06CED7004D949D /* LaunchScreen.storyboard */,
@@ -164,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D60237D41D06CED7004D949D /* JustText.xcdatamodeld in Sources */,
+				D6B5973D1D06EF59005FFB7E /* AViewController.m in Sources */,
 				D60237CE1D06CED7004D949D /* ViewController.m in Sources */,
 				D60237E21D06D29A004D949D /* NewViewController.m in Sources */,
 				D60237CB1D06CED7004D949D /* AppDelegate.m in Sources */,
